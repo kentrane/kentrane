@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kentrane
-- 👀 I’m interested in Electronics, and embedded development using C/C++
+- 👀 I’m interested in Electronics, and embedded development
 <!--- 🌱 I’m currently trying to learn software development using newer languages like GO and Rust --->
 
 <!---
